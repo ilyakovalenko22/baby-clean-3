@@ -1,0 +1,6 @@
+<svg width="210" height="44" viewBox="0 0 210 44" xmlns="http://www.w3.org/2000/svg">
+  <rect x="0" y="0" width="210" height="44" rx="10" fill="#FFFFFF" />
+  <text x="14" y="29" font-family="Inter, Arial, Helvetica, sans-serif" font-size="20" font-weight="800" fill="#0C1C3F">BAFY</text>
+  <rect x="68" y="16" width="6" height="10" rx="2" fill="#C9A33B"/>
+  <text x="80" y="29" font-family="Inter, Arial, Helvetica, sans-serif" font-size="20" font-weight="800" fill="#0F766E">CLEAN</text>
+</svg>
